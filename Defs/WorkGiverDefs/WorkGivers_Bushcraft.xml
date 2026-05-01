@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>Bushcraft_Forage</defName>
+    <label>do bushcraft</label>
+    <giverClass>RimWorldBushcraft.WorkGiver_BushcraftForage</giverClass>
+    <workType>Bushcraft</workType>
+    <scanThings>false</scanThings>
+    <scanCells>true</scanCells>
+    <verb>forage at</verb>
+    <gerund>foraging at</gerund>
+    <priorityInType>80</priorityInType>
+    <requiredCapacities>
+      <li>Moving</li>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByMechs>false</canBeDoneByMechs>
+  </WorkGiverDef>
+
+</Defs>

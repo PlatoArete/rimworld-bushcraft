@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bushcraft_ZoneLabel>Bushcraft zone</Bushcraft_ZoneLabel>
+  <Bushcraft_DesignatorZoneDesc>Designate a land area where colonists can forage, track, trap, and gather modest survival resources.</Bushcraft_DesignatorZoneDesc>
+  <Bushcraft_CannotPlaceZone>Must be placed on walkable land.</Bushcraft_CannotPlaceZone>
+  <Bushcraft_ForageDensity>Forage density: {0}</Bushcraft_ForageDensity>
+  <Bushcraft_ManhunterReason>Disturbed while bushcrafting</Bushcraft_ManhunterReason>
+  <Bushcraft_ManhunterMessage>{0} was disturbed by bushcrafting and has become manhunter.</Bushcraft_ManhunterMessage>
+</LanguageData>
